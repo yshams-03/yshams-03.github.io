@@ -11,5 +11,18 @@
         "DC:6F:DF:02:41:C6:52:B9:B4:55:2F:77:27:C1:E0:01:B2:FE:F9:D8:73:C9:90:8B:17:E8:44:69:39:87:4A:43"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smartbank.mobile.dev",
+      "sha256_cert_fingerprints": [
+        "DC:6F:DF:02:41:C6:52:B9:B4:55:2F:77:27:C1:E0:01:B2:FE:F9:D8:73:C9:90:8B:17:E8:44:69:39:87:4A:43"
+      ]
+    }
   }
 ]
